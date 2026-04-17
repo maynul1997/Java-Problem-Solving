@@ -6,8 +6,12 @@ public class TypeCasting {
         int num1, num2, result;
         Scanner input = new Scanner(System.in);
 
-        num1 = 40;
-        num2 = 30;
+        System.out.println("Enter First Number: ");
+        num1 = input.nextInt();
+
+        System.out.println("Enter Second Number: ");
+        num2 = input.nextInt();
+
 
         result = num1 + num2;
         System.out.println("Sum:"+result);
