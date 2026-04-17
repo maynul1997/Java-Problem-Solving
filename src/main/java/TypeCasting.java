@@ -3,11 +3,14 @@ public class TypeCasting {
 
         int num1, num2, result;
 
-        num1 = 10;
+        num1 = 40;
         num2 = 30;
 
         result = num1 + num2;
-        System.out.println("Result:"+result);
+        System.out.println("Sum:"+result);
+
+        result = num1 - num2;
+        System.out.println("Sub:"+result);
 
     }
 }
