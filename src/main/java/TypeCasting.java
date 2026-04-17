@@ -1,7 +1,10 @@
+import java.util.Scanner;
+
 public class TypeCasting {
     static void main() {
 
         int num1, num2, result;
+        Scanner input = new Scanner(System.in);
 
         num1 = 40;
         num2 = 30;
