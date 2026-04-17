@@ -22,8 +22,8 @@ public class TypeCasting {
         result = num1 * num2;
         System.out.println("Mul:"+result);
 
-        result = num1 / num2;
-        System.out.println("Div:"+result);
+       double result2 = (double)num1 / num2;
+        System.out.println("Div:"+result2);
 
         result = num1 % num2;
         System.out.println("Reminder:"+result);
