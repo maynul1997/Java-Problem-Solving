@@ -12,5 +12,8 @@ public class TypeCasting {
         result = num1 - num2;
         System.out.println("Sub:"+result);
 
+        result = num1 * num2;
+        System.out.println("Mul:"+result);
+
     }
 }
