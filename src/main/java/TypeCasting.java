@@ -18,7 +18,8 @@ public class TypeCasting {
         result = num1 / num2;
         System.out.println("Div:"+result);
 
-
+        result = num1 % num2;
+        System.out.println("Reminder:"+result);
 
     }
 }
