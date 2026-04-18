@@ -11,6 +11,6 @@ public class Assignment4 {
         NumOfInstallment = input.nextInt();
 
         InstallmentPerMonth = phonePrice/NumOfInstallment;
-        System.out.println("");
+        System.out.println("Per Month Installment: "+InstallmentPerMonth);
     }
 }
