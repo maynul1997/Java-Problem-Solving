@@ -3,5 +3,8 @@ public class Unary_Operator {
 
         int x = 10;
         int result;
+
+        result = +x;
+        System.out.println("X : "+result);
     }
 }
