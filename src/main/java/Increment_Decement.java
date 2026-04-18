@@ -3,5 +3,7 @@ public class Increment_Decement {
         int x = 20;
         int y;
 
+        y = x++;
+
     }
 }
