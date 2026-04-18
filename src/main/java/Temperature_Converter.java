@@ -9,7 +9,7 @@ public class Temperature_Converter {
         System.out.println("Enter Cels Temperature: ");
         cels = input.nextDouble();
 
-        Fer = 9/5(cels-32);
+        Fer = 1.8*cels+32;
 
     }
 }
