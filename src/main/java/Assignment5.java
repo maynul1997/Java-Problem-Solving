@@ -9,5 +9,9 @@ public class Assignment5 {
 
         System.out.println("Enter your age: ");
         age = input.nextInt();
+
+        if (age<18){
+            System.out.println("Not Voter");
+        }
     }
 }
