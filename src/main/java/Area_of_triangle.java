@@ -8,7 +8,8 @@ public class Area_of_triangle {
         System.out.println("Enter Base: ");
         base = input.nextDouble();
 
-
+        System.out.println("Enter Height: ");
+        height = input.nextDouble();
 
 
 
