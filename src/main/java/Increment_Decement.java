@@ -4,6 +4,7 @@ public class Increment_Decement {
         int y;
 
         y = x++;
+        System.out.println("X = "+y);
 
     }
 }
