@@ -10,7 +10,9 @@ public class EvenOdd {
         System.out.println("Eneter a Number: ");
         num = input.nextInt();
 
-
+        if (num%2==0){
+            System.out.println("Even Number");
+        }
 
     }
 }
