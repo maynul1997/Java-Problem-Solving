@@ -12,5 +12,8 @@ public class If_else {
             System.out.println("Positive");
         }
 
+        else if(num<0) {
+            System.out.println("Negative");
+        }
     }
 }
