@@ -13,6 +13,9 @@ public class Assignment_Operator {
        x *= y;
        System.out.println("x = "+x);
 
+       x /= y;
+       System.out.println("x = "+x);
+
 
 
     }
