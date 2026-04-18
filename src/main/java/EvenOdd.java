@@ -7,6 +7,7 @@ public class EvenOdd {
         Scanner input = new Scanner(System.in);
         int num;
 
+        System.out.println("Eneter a Number: ");
 
     }
 }
