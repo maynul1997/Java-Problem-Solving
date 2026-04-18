@@ -8,6 +8,9 @@ public class EvenOdd {
         int num;
 
         System.out.println("Eneter a Number: ");
+        num = input.nextInt();
+
+
 
     }
 }
