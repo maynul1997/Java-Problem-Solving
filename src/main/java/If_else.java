@@ -7,5 +7,10 @@ public class If_else {
 
         System.out.println("Enter an Integer Number: ");
         num = input.nextInt();
+
+        if (num>0) {
+            System.out.println("Positive");
+        }
+
     }
 }
