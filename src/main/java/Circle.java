@@ -5,6 +5,8 @@ public class Circle {
         Scanner input = new Scanner(System.in);
         double radius;
 
+        System.out.println("Enter radius: ");
+
 
 
     }
