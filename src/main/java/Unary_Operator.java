@@ -6,5 +6,8 @@ public class Unary_Operator {
 
         result = +x;
         System.out.println("X : "+result);
+
+        result = -x;
+        System.out.println("X : "+result);
     }
 }
