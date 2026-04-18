@@ -3,7 +3,10 @@ public class Increment_Decement {
         int x = 20;
         int y;
 
-        y = x++;
+        y = x++; // post increment
+        System.out.println("X = "+y);
+
+        y = ++x; // post Increment
         System.out.println("X = "+y);
 
     }
