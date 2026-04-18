@@ -11,7 +11,7 @@ public class Area_of_triangle {
         System.out.println("Enter Height: ");
         height = input.nextDouble();
 
-
+        area = 0.5* base * height;
 
 
     }
