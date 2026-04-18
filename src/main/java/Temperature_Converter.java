@@ -6,7 +6,7 @@ public class Temperature_Converter {
         Scanner input = new Scanner(System.in);
         double cels, Fer;
 
-        System.out.println("Enter Cels Temperature: ");
+        System.out.println("Enter Celcius Temperature: ");
         cels = input.nextDouble();
 
         Fer = 1.8*cels+32;
