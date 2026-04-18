@@ -8,6 +8,7 @@ public class Assignment4 {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Enter the Price of Phone: ");
+        phonePrice = input.nextInt();
 
         System.out.println("Enter the Number of Installment: ");
         NumOfInstallment = input.nextInt();
