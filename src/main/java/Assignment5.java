@@ -13,5 +13,9 @@ public class Assignment5 {
         if (age<18){
             System.out.println("Not Voter");
         }
+
+        else if(age>=18){
+            System.out.println("Voter");
+        }
     }
 }
