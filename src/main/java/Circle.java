@@ -6,6 +6,7 @@ public class Circle {
         double radius;
 
         System.out.println("Enter radius: ");
+        radius = input.nextDouble();
 
 
 
