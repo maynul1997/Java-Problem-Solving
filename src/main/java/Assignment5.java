@@ -4,6 +4,7 @@ public class Assignment5 {
 
     static void main() {
 
-        Scanner
+        Scanner input = new Scanner(System.in);
+
     }
 }
