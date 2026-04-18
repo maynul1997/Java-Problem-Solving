@@ -1,7 +1,7 @@
 public class DigitSpelling {
     static void main() {
 
-        int num = 1234567;
+        int num = 12345;
         int reverse = 0;
 
         //Reverse part
@@ -18,7 +18,8 @@ public class DigitSpelling {
                 case 1: System.out.print("One "); break;
                 case 2: System.out.print("Two "); break;
                 case 3: System.out.print("Three "); break;
-                case 3: System.out.print("Three "); break;
+                case 3: System.out.print("Four "); break;
+                case 3: System.out.print("Five "); break;
             }
 
             reverse = reverse / 10;
