@@ -13,6 +13,8 @@ public class Area_of_triangle {
 
         area = 0.5* base * height;
 
+        System.out.println("The Area of Triangle: "+area);
+
 
     }
 }
