@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class EvenOdd {
@@ -12,6 +13,10 @@ public class EvenOdd {
 
         if (num%2==0){
             System.out.println("Even Number");
+        }
+
+        else{
+            System.out.println("Odd Number");
         }
 
     }
