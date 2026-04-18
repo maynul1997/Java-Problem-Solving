@@ -12,9 +12,19 @@ public class DigitSpelling {
         }
 
         // Print part
-        while(reverse>0) {
+        while (reverse > 0) {
             int digit = reverse % 10;
+            switch (digit) {
+                case 1: System.out.print("One "); break;
+                case 2: System.out.print("Two "); break;
+                case 3: System.out.print("Three "); break;
+            }
+
+            reverse = reverse / 10;
+
         }
+
+
 
     }
 }
