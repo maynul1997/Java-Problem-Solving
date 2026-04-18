@@ -4,6 +4,9 @@ public class EvenOdd {
 
     static void main() {
 
-        Scanner num = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
+        int num;
+
+
     }
 }
