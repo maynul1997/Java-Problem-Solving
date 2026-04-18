@@ -20,6 +20,5 @@ public class Assignment_Operator {
        System.out.println("x = "+x);
 
 
-
     }
 }
