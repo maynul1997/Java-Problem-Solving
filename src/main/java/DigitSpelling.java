@@ -4,5 +4,11 @@ public class DigitSpelling {
         int num = 123;
         int reverse = 0;
 
+        //Reverse part
+        while(num>0) {
+            int digit = num % 10 ;
+            Reverse logic
+        }
+
     }
 }
