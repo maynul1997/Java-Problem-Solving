@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Assignment4 {
     static void main() {
-        int phonePrice = 1800; //Euros
+        int phonePrice = 18000; //Taka
         int NumOfInstallment, InstallmentPerMonth;
         Scanner input = new Scanner(System.in);
 
@@ -11,6 +11,6 @@ public class Assignment4 {
         NumOfInstallment = input.nextInt();
 
         InstallmentPerMonth = phonePrice/NumOfInstallment;
-        System.out.println("Per Month Installment: "+InstallmentPerMonth);
+        System.out.println("Per Month Installment: "+InstallmentPerMonth+"Taka");
     }
 }
