@@ -6,6 +6,9 @@ public class Increment_Decement {
         y = x++; // post increment
         System.out.println("X = "+y);
 
+        y = x; // post increment
+        System.out.println("X = "+y);
+
         y = ++x; // post Increment
         System.out.println("X = "+y);
 
