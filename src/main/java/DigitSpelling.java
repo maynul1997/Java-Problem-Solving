@@ -7,6 +7,8 @@ public class DigitSpelling {
         //Reverse part
         while(num>0) {
             int digit = num % 10 ;
+            reverse = reverse * 10 + digit;
+
         }
 
     }
