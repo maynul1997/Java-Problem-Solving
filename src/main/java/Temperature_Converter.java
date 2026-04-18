@@ -10,6 +10,7 @@ public class Temperature_Converter {
         cels = input.nextDouble();
 
         Fer = 1.8*cels+32;
+        System.out.println("Fern is: "+Fer);
 
     }
 }
