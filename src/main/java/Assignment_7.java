@@ -4,8 +4,8 @@ public class Assignment_7 {
     static void main() {
 
         Scanner input = new (System.in);
-        char ch = 'I love Java ';
-        char num = 'I donot Love Java';
+        char ch ;
+        char num ;
         System.out.println("Enter Y or N : ");
         ch = input.next().charAt();
 
@@ -13,7 +13,7 @@ public class Assignment_7 {
         num = input.next().charAt();
 
         if(ch =='Y' || ch == 'y' ){
-
+            System.out.println("I love Java");
         }
 
 
