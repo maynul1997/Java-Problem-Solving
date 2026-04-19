@@ -8,5 +8,9 @@ public class LogicalOperator01 {
         System.out.println("Enter a Letter: ");
         ch = input.next().charAt(0);
 
+        if(ch == 'a' || ch== 'e' || ch == 'i' || ch == 'o' || ch=='u'){
+
+        }
+
     }
 }
