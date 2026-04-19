@@ -9,7 +9,7 @@ public class LogicalOperator01 {
         ch = input.next().charAt(0);
 
         if(ch == 'a' || ch== 'e' || ch == 'i' || ch == 'o' || ch=='u'){
-
+            System.out.println("Vowel");
         }
 
     }
