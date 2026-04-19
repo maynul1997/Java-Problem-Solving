@@ -12,5 +12,9 @@ public class LogicalOperator01 {
             System.out.println("Vowel");
         }
 
+        else{
+            System.out.println("Consonant");
+        }
+
     }
 }
