@@ -12,6 +12,9 @@ public class Assignment_7 {
         System.out.println("Enter Y or N : ");
         num = input.next().charAt();
 
+        if(ch =='Y' || ch == 'y' ){
+
+        }
 
 
     }
