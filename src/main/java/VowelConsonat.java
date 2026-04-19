@@ -24,5 +24,9 @@ public class VowelConsonat {
             System.out.println("Vowel");
         }
 
+        if(ch=="u"){
+            System.out.println("Vowel");
+        }
+
     }
 }
