@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Assignment_7 {
     static void main() {
 
-        Scanner input = new (System.in);
+        Scanner input = new Scanner (System.in);
         char ch ;
         char num ;
         System.out.println("Enter Y or N : ");
