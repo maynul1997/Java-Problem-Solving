@@ -14,6 +14,8 @@ public class LogicalOperator2 {
             System.out.println("Small letter");
         }
 
-        else if (ch>= 'A' && ch<='Z')
+        else if (ch>= 'A' && ch<='Z') {
+            System.out.println("Capital letter");
+        }
     }
 }
