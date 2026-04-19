@@ -8,5 +8,9 @@ public class VowelConsonat {
         System.out.println("Enter a Letter: ");
         ch = input.next().charAt(0);
 
+        if(ch=="a"){
+            System.out.println("Vowel");
+        }
+
     }
 }
