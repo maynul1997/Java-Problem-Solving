@@ -5,9 +5,12 @@ public class Assignment_7 {
 
         Scanner input = new (System.in);
         char ch = 'I love Java ';
-
-        System.out.println("Enter ");
+        char num = 'I donot Love Java';
+        System.out.println("Enter Y or N : ");
         ch = input.next().charAt();
+
+        System.out.println("Enter Y or N : ");
+        num = input.next().charAt();
 
 
 
