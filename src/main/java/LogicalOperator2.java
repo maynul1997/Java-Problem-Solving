@@ -7,7 +7,8 @@ public class LogicalOperator2 {
         Scanner input = new Scanner(System.in);
         char ch;
 
-
+        System.out.println("Enter a Letter: ");
+        ch = input.next().charAt(0);
 
         if ()
     }
