@@ -11,7 +11,8 @@ public class LogicalOperator2 {
         ch = input.next().charAt(0);
 
         if (ch >= 'a' && ch<= 'z') {
-            sout
+            System.out.println("Small letter");
+
         }
     }
 }
