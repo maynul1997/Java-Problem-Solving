@@ -16,6 +16,10 @@ public class Assignment_7 {
             System.out.println("I love Java");
         }
 
+        else if (num == 'N' || num == 'n'){
+            sout
+        }
+
 
     }
 }
