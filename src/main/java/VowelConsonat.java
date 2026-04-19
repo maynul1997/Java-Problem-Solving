@@ -24,8 +24,12 @@ public class VowelConsonat {
             System.out.println("Vowel");
         }
 
-        if(ch=="u"){
+        else if(ch=="u"){
             System.out.println("Vowel");
+        }
+
+        else {
+            System.out.println("Consonant");
         }
 
     }
