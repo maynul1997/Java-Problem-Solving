@@ -20,5 +20,9 @@ public class VowelConsonat {
             System.out.println("Vowel");
         }
 
+        else if(ch=="o"){
+            System.out.println("Vowel");
+        }
+
     }
 }
