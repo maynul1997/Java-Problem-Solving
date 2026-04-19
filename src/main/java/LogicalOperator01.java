@@ -5,6 +5,8 @@ public class LogicalOperator01 {
             Scanner input = new Scanner(System.in);
             char ch;
 
+        System.out.println("Enter a Letter: ");
+        ch = input.next().charAt(0);
 
     }
 }
