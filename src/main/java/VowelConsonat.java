@@ -16,5 +16,9 @@ public class VowelConsonat {
             System.out.println("Vowel");
         }
 
+        else if(ch=="i"){
+            System.out.println("Vowel");
+        }
+
     }
 }
