@@ -10,6 +10,8 @@ public class LogicalOperator2 {
         System.out.println("Enter a Letter: ");
         ch = input.next().charAt(0);
 
-        if ()
+        if (ch >= 'a' && ch<= 'z') {
+            sout
+        }
     }
 }
