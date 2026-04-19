@@ -17,7 +17,7 @@ public class Assignment_7 {
         }
 
         else if (num == 'N' || num == 'n'){
-            sout
+            System.out.println("I donot love Java");
         }
 
 
