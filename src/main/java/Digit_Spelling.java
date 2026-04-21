@@ -9,7 +9,9 @@ public class Digit_Spelling {
         System.out.println("Enter aDigit- ");
         digit = input.nextInt();
 
+        switch (digit){
 
+        }
 
     }
 }
