@@ -6,6 +6,10 @@ public class Assignment_08 {
         Scanner input = new Scanner(System.in);
         char masters, English;
 
+        System.out.println("Have you complete your Post Graduation? ");
+        masters = input.next().charAt(0);
+
+
 
     }
 }
