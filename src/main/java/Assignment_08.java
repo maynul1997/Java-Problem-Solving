@@ -9,6 +9,9 @@ public class Assignment_08 {
         System.out.println("Have you complete your Post Graduation? ");
         masters = input.next().charAt(0);
 
+        System.out.println("Are you fluent at English? ");
+        English = input.next().charAt(0);
+
 
 
     }
