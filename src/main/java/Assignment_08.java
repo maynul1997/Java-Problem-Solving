@@ -14,7 +14,7 @@ public class Assignment_08 {
 
         if(masters == 'Y' || masters == 'y' &&  English =='Y' || English=='y'){
 
-            System.out.println("You");
+            System.out.println("You are Eligible for the Job ! ");
         }
 
 
