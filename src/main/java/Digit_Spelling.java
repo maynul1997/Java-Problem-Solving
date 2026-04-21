@@ -21,6 +21,7 @@ public class Digit_Spelling {
 
             case 2:
                 System.out.println("Two");
+                break;
 
         }
 
