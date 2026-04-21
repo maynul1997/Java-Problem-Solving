@@ -31,6 +31,10 @@ public class Digit_Spelling {
                 System.out.println("Four");
                 break;
 
+            case 5:
+                System.out.println("Five");
+                break;
+
         }
 
     }
