@@ -13,6 +13,10 @@ public class Digit_Spelling {
 
             case 0:
                 System.out.println("Zero");
+                break;
+
+            case 1:
+                System.out.println("One");
 
         }
 
