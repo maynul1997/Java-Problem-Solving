@@ -23,6 +23,10 @@ public class Digit_Spelling {
                 System.out.println("Two");
                 break;
 
+            case 3:
+                System.out.println("Three");
+                break;
+
         }
 
     }
