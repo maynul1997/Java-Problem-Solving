@@ -17,6 +17,10 @@ public class Assignment_08 {
             System.out.println("You are Eligible for the Job ! ");
         }
 
+        else{
+            System.out.println("Not eligible for the Job");
+        }
+
 
 
     }
