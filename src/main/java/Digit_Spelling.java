@@ -7,6 +7,8 @@ public class Digit_Spelling {
         int digit;
 
         System.out.println("Enter aDigit- ");
+        digit = input.nextInt();
+
 
 
     }
