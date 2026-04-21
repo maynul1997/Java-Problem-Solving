@@ -6,7 +6,7 @@ public class Digit_Spelling {
         Scanner input = new Scanner(System.in);
         int digit;
 
-        System.out.println("Enter aDigit- ");
+        System.out.println("Enter a Digit: ");
         digit = input.nextInt();
 
         switch (digit){
