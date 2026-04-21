@@ -12,7 +12,10 @@ public class Assignment_08 {
         System.out.println("Are you fluent at English? ");
         English = input.next().charAt(0);
 
-        if(masters == 'Y' || masters == 'y' && )
+        if(masters == 'Y' || masters == 'y' &&  English =='Y' || English=='y'){
+
+            System.out.println("You");
+        }
 
 
 
