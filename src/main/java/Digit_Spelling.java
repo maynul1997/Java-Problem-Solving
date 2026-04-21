@@ -11,6 +11,9 @@ public class Digit_Spelling {
 
         switch (digit){
 
+            case 0:
+                System.out.println("Zero");
+
         }
 
     }
