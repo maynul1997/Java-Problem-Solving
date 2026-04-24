@@ -5,5 +5,7 @@ public class Conditional_Operatior {
 
         Scanner input = new Scanner(System.in);
         int num1, num2;
+
+        System.out.println("Enter Two number: ");
     }
 }
