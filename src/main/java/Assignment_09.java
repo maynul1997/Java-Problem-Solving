@@ -11,6 +11,9 @@ public class Assignment_09 {
 
             case 0:
                 System.out.println("The language is Bangla");
+                break;
+
+            case 1
         }
 
 
