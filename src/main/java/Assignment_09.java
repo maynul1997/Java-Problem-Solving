@@ -15,7 +15,8 @@ public class Assignment_09 {
 
             case 1:
                 System.out.println("The language is Arabic");
-        }
+                break;
+
 
 
     }
