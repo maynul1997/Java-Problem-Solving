@@ -6,6 +6,7 @@ public class Assignment_09 {
         int num;
 
         System.out.println("Enter a Number: ");
+        num = input.nextInt();
 
         switch(num){
 
