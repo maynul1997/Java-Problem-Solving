@@ -27,6 +27,7 @@ public class Assignment_09 {
 
             case 4:
                 System.out.println("the number is Hindi");
+                break;
 
 
     }
