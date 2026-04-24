@@ -9,6 +9,7 @@ public class Assignment_09 {
 
         switch(num){
 
+            case 0:
 
         }
 
