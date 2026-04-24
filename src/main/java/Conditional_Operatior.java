@@ -4,10 +4,12 @@ public class Conditional_Operatior {
     static void main() {
 
         Scanner input = new Scanner(System.in);
-        int num1, num2;
+        int num1, num2, large;
 
         System.out.println("Enter Two number: ");
         num1 = input.nextInt();
         num2 = input.nextInt();
+
+
     }
 }
