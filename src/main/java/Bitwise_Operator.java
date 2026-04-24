@@ -6,7 +6,8 @@ public class Bitwise_Operator {
 
         int c;
 
-        c =
+        c = a&b;
+
 
 
     }
