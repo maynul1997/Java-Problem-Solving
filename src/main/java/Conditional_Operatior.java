@@ -8,5 +8,6 @@ public class Conditional_Operatior {
 
         System.out.println("Enter Two number: ");
         num1 = input.nextInt();
+        num2 = input.nextInt();
     }
 }
