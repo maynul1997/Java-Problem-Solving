@@ -12,6 +12,8 @@ public class Conditional_Operatior {
 
         large = num1>num2 ? num1 : num2;
 
+        System.out.println("Large number is-"+large);
+
 
     }
 }
