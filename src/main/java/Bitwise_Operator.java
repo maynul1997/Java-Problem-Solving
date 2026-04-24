@@ -10,6 +10,7 @@ public class Bitwise_Operator {
         System.out.println(" a & b = "+c);
 
         c = a | b;
+        System.out.println("a | b = "+c);
 
 
     }
