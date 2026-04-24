@@ -9,6 +9,8 @@ public class Bitwise_Operator {
         c = a&b;
         System.out.println(" a & b = "+c);
 
+        c = a | b;
+
 
     }
 }
