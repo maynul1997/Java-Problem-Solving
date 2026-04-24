@@ -13,7 +13,8 @@ public class Assignment_09 {
                 System.out.println("The language is Bangla");
                 break;
 
-            case 1
+            case 1:
+                System.out.println("The language is Arabic");
         }
 
 
