@@ -10,6 +10,8 @@ public class Conditional_Operatior {
         num1 = input.nextInt();
         num2 = input.nextInt();
 
+        large = num1>num2 ? num1 : num2;
+
 
     }
 }
