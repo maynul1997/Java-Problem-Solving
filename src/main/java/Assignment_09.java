@@ -22,7 +22,7 @@ public class Assignment_09 {
                 break;
 
             case 3:
-
+                System.out.println("The language is Urdu");
 
 
     }
