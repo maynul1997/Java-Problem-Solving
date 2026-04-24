@@ -1,10 +1,12 @@
 public class Bitwise_Operator {
     static void main() {
 
-        int num1 = 32;
-        int num2 = 12;
+        int a= 32;
+        int b = 12;
 
         int c;
+
+        c =
 
 
     }
