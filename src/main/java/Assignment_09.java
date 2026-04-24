@@ -7,6 +7,11 @@ public class Assignment_09 {
 
         System.out.println("Enter a Number: ");
 
+        switch(num){
+
+
+        }
+
 
     }
 }
