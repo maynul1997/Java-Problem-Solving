@@ -8,7 +8,7 @@ public class Assignment_09 {
         System.out.println("Enter a Number: ");
         num = input.nextInt();
 
-        switch(num){
+        switch (num) {
 
             case 0:
                 System.out.println("The language is Bangla");
@@ -31,5 +31,6 @@ public class Assignment_09 {
                 break;
 
 
+        }
     }
 }
