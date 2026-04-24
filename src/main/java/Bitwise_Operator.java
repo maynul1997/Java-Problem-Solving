@@ -6,8 +6,8 @@ public class Bitwise_Operator {
 
         int c;
 
-        c = a&b;
-        System.out.println(" a & b = "+c);
+        c = a & b;
+        System.out.println("a & b = "+c);
 
         c = a | b;
         System.out.println("a | b = "+c);
