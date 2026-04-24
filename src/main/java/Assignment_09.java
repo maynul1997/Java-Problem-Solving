@@ -10,7 +10,7 @@ public class Assignment_09 {
         switch(num){
 
             case 0:
-
+                System.out.println("The language is Bangla");
         }
 
 
