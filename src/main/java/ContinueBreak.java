@@ -12,6 +12,8 @@ public class ContinueBreak {
                 break;
             }
 
+            System.out.println(i);
+
         }
     }
 }
