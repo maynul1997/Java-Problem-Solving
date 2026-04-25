@@ -6,7 +6,7 @@ public class Assignment_10 {
             sum += i;
 
         }
-        System.out.println("Addition of all values: "+);
+        System.out.println("Addition of all values: "+sum);
 
     }
 }
