@@ -4,7 +4,8 @@ public class Break_Statement {
 
         for(i = 0; i <= 100; 1++){
 
-
+            if (i == 50)
+                break;
         }
 
     }
