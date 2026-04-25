@@ -9,7 +9,8 @@ public class Demo_math {
         int minimum = Math.min(a,b);
         System.out.println("Minimun value Print= "+minimum);
 
-        int absolute = Math.abs(a,b);
+        int absolute = Math.abs(a);
+        System.out.println("Absolute value print= "+absolute);
 
 
 
