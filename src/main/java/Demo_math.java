@@ -4,6 +4,7 @@ public class Demo_math {
         int b = 80;
 
         int max = Math.max(a,b);
+        System.out.println("Maximum value print = "+max);
 
 
     }
