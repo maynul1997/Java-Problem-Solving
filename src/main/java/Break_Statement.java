@@ -6,6 +6,7 @@ public class Break_Statement {
 
             if (i == 50)
                 break;
+            System.out.println(i);
         }
 
     }
