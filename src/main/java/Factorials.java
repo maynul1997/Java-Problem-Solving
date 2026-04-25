@@ -5,7 +5,11 @@ public class Factorials {
         Scanner input= new Scanner(System.in);
 
         System.out.println("Enter a Number : ");
-        input.nextInt();
+        int i = input.nextInt();
+        int result = 1;
+
+
+
 
     }
 }
