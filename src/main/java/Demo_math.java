@@ -3,6 +3,8 @@ public class Demo_math {
         int a = 20;
         int b = 80;
 
+        int max = Math.max(a,b);
+
 
     }
 }
