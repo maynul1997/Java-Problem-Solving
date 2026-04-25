@@ -12,6 +12,9 @@ public class Demo_math {
         int absolute = Math.abs(a);
         System.out.println("Absolute value print= "+absolute);
 
+        int round = Math.round(5.5f);
+
+
 
 
 
