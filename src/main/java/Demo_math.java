@@ -13,6 +13,7 @@ public class Demo_math {
         System.out.println("Absolute value print= "+absolute);
 
         int round = Math.round(5.5f);
+        System.out.println("The round number of 5.5 = "+round);
 
 
 
