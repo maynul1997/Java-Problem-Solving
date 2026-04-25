@@ -6,6 +6,8 @@ public class Demo_math {
         int max = Math.max(a,b);
         System.out.println("Maximum value print = "+max);
 
+        int min = Math.min(a,b);
+
 
     }
 }
