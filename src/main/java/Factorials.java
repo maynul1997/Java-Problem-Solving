@@ -8,6 +8,11 @@ public class Factorials {
         int i = input.nextInt();
         int result = 1;
 
+        for(j==1; j<=i; j++){
+            result = result*1;
+
+        }
+
 
 
 
