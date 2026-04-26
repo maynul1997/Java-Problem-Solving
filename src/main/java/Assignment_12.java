@@ -11,5 +11,7 @@ public class Assignment_12 {
         System.out.println("Enter Num2 : ");
         int num2 = input.nextInt();
 
+        for (int i = num1; i <= num2; i++){
+
     }
 }
