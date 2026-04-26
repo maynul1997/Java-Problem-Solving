@@ -8,5 +8,8 @@ public class SumOFLoop {
         System.out.println("Enter num1 ");
         num1 = input.nextInt();
 
+        System.out.println("Enter num1 ");
+        num2 = input.nextInt();
+
     }
 }
