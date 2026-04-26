@@ -12,7 +12,9 @@ public class Assignment_12 {
         int num2 = input.nextInt();
 
         for (int i = num1+1 ; i < num2; i++){
-            System.out.println(i);
+            if( i % 2 =10= 0 ){
+                System.out.println(i);
+            }
         }
 
     }
