@@ -12,8 +12,8 @@ public class SumOFLoop {
         System.out.println("Enter num2 :  ");
         num2 = input.nextInt();
 
-        for( i = num1; i <num2; i++){
-            sum = sum + 1;
+        for( i = num1; i<=num2; i++){
+            sum = sum + i;
 
         }
         System.out.println("Sum is : "+sum);
