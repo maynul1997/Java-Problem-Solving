@@ -5,5 +5,7 @@ public class Assignment_12 {
 
         Scanner input = new Scanner(System.in);
 
+        System.out.println("Enter the Numbers : ");
+
     }
 }
