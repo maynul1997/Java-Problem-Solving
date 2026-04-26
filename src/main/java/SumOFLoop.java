@@ -13,8 +13,10 @@ public class SumOFLoop {
         num2 = input.nextInt();
 
         for( i = num1; i <num2; i++){
+            sum = sum + 1;
 
         }
+
 
     }
 }
