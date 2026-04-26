@@ -9,7 +9,7 @@ public class Factorials {
         int result = 1;
 
         for(int j=1; j<=i; j++){
-            result = result*i;
+            result = result*j;
 
         }
         System.out.println(result);
