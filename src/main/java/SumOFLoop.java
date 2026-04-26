@@ -5,6 +5,7 @@ public class SumOFLoop {
         Scanner input = new Scanner(System.in);
 
         int num1, num2, i;
+        int sum = 0;
         System.out.println("Enter num1 : ");
         num1 = input.nextInt();
 
