@@ -16,6 +16,7 @@ public class SumOFLoop {
             sum = sum + 1;
 
         }
+        System.out.println("Sum is : ");
 
 
     }
