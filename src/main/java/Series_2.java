@@ -6,6 +6,7 @@ public class Series_2 {
         int n;
 
         System.out.println("Enter the last number : ");
+        n = input.nextInt();
 
 
     }
