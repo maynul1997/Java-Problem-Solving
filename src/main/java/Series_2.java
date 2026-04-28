@@ -9,8 +9,9 @@ public class Series_2 {
         n = input.nextInt();
 
         for (int i = 0 ; i<= n; i++){
-
+            mul = mul * i;
         }
+        System.out.println(mul);
 
 
     }
