@@ -6,6 +6,8 @@ public class Series_01 {
         Scanner input = new Scanner(System.in);
         int num, sum = 0;
 
+        System.out.println("Enter the series of num : ");
+        num = input.nextInt();
 
 
     }
