@@ -9,5 +9,9 @@ public class TimeTable {
         System.out.println("Enter the Number : ");
         num = input.nextInt();
 
+        for(int i=1; i<=num; i++ ){
+
+        }
+
     }
 }
