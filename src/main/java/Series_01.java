@@ -9,7 +9,7 @@ public class Series_01 {
         System.out.println("Enter the series of num : ");
         num = input.nextInt();
 
-        for(int i=1; i<=num; i=i+1) {
+        for(int i=1; i<=num; i++) {
             sum = sum + i;
 
         }
