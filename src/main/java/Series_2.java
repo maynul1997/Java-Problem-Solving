@@ -12,6 +12,7 @@ public class Series_2 {
             System.out.print(i+" ");
             mul = mul * i;
         }
+        System.out.println();
         System.out.println(mul);
 
 
