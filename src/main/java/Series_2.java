@@ -8,6 +8,8 @@ public class Series_2 {
         System.out.println("Enter the last number : ");
         n = input.nextInt();
 
+        for (int i = 0 ; i<= n; i++)
+
 
     }
 }
