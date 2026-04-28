@@ -10,8 +10,10 @@ public class Series_01 {
         num = input.nextInt();
 
         for(int i=0; i<=10; i++) {
+            sum = sum + i;
 
         }
+
 
 
     }
