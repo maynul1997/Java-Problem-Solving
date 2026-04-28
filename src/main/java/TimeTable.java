@@ -5,5 +5,9 @@ public class TimeTable {
 
         Scanner input = new Scanner(System.in);
         int num;
+
+        System.out.println("Enter the Number : ");
+        num = input.nextInt();
+
     }
 }
