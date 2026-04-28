@@ -5,6 +5,8 @@ public class Series_2 {
         Scanner input = new Scanner(System.in);
         int n;
 
+        System.out.println("Enter the last number : ");
+
 
     }
 }
