@@ -13,7 +13,7 @@ public class Series_01 {
             sum = sum + i;
 
         }
-
+        System.out.println(i);
 
 
     }
