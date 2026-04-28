@@ -10,7 +10,7 @@ public class TimeTable {
         num = input.nextInt();
 
         for(int i=1; i<=num; i++ ){
-
+            System.out.println(num+ "X" + i + "=" + num * i );
         }
 
     }
