@@ -9,6 +9,10 @@ public class Series_01 {
         System.out.println("Enter the series of num : ");
         num = input.nextInt();
 
+        for(int i=0; i<=10; i++) {
+
+        }
+
 
     }
 }
