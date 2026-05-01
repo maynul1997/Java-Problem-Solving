@@ -6,5 +6,9 @@ public class User_PrimeNumber {
          int m, n;
         System.out.println("Enter the initial number : ");
         m = input.nextInt();
+
+        System.out.println("Enter the ending number : ");
+        n = input.nextInt();
+
     }
 }
