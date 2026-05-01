@@ -19,6 +19,10 @@ public class User_PrimeNumber {
                     break;
                 }
             }
+            if(count == 0){
+                System.out.println(i);
+                count =0;
+            }
         }
 
     }
