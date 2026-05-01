@@ -7,7 +7,7 @@ public class fivonacci {
         System.out.println("Enter expected number : ");
         int n = input.nextInt();
 
-
+        int first = 0;
 
     }
 }
