@@ -9,6 +9,9 @@ public class fivonacci {
 
         int first = 0;
         int second =1;
+        int fibo;
+
+
 
     }
 }
