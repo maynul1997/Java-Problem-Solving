@@ -14,7 +14,10 @@ public class User_PrimeNumber {
 
         for (int i= m; i<n; i++){
             for( j=2; j<i; j++){
-
+                if( i%j == 0) {
+                    count ++;
+                    break;
+                }
             }
         }
 
