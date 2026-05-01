@@ -8,7 +8,7 @@ public class CheckPrimeNumber {
         int num = input.nextInt();
         int count = 0;
 
-        for( int i = 2; i<=num; i++) {
+        for( int i = 2; i<num; i++) {
             if(num % i == 0){
                 count ++;
                 break;
