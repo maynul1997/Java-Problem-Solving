@@ -14,6 +14,9 @@ public class CheckPrimeNumber {
                 break;
             }
         }
+        if (count==0){
+            System.out.println("Prime Number");
+        }
 
 
     }
