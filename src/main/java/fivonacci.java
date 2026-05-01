@@ -5,6 +5,8 @@ public class fivonacci {
 
         Scanner input = new Scanner(System.in);
         System.out.println("Enter expected number : ");
+        int n = input.nextInt();
+
 
 
     }
