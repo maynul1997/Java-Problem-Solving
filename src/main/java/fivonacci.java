@@ -8,6 +8,7 @@ public class fivonacci {
         int n = input.nextInt();
 
         int first = 0;
+        int second =1;
 
     }
 }
