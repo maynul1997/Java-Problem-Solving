@@ -7,5 +7,10 @@ public class CheckPrimeNumber {
         System.out.println("Enter any positive number : ");
         int num = input.nextInt();
 
+        for( int i = 2; i<=num; i++) {
+
+        }
+
+
     }
 }
