@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class User_PrimeNumber {
     static void main() {
 
-        int count = 0;
+        int j, count = 0;
         Scanner input = new Scanner(System.in);
          int m, n;
         System.out.println("Enter the initial number : ");
@@ -13,7 +13,9 @@ public class User_PrimeNumber {
         n = input.nextInt();
 
         for (int i= m; i<n; i++){
-            for()
+            for( j=2; j<i; j++){
+
+            }
         }
 
     }
