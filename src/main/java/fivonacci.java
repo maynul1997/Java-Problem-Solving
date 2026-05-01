@@ -12,7 +12,9 @@ public class fivonacci {
         int fibo;
         System.out.println(first+" "+second);
 
-        for( )
+        for( int i= 3; i<n; i++ ){
+
+        }
 
 
 
