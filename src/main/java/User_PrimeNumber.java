@@ -10,5 +10,9 @@ public class User_PrimeNumber {
         System.out.println("Enter the ending number : ");
         n = input.nextInt();
 
+        for (int i= m; i<n; i++){
+            for()
+        }
+
     }
 }
