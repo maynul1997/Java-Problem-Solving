@@ -17,6 +17,9 @@ public class fivonacci {
             fibo = first + second;
             System.out.println(fibo);
 
+            first = second;
+            second = fibo;
+
         }
 
 
