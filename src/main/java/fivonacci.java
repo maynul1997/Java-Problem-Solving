@@ -10,12 +10,12 @@ public class fivonacci {
         int first = 0;
         int second =1;
         int fibo;
-        System.out.println(first+" "+second);
+        System.out.print(first+" "+second);
 
         for( int i= 3; i<n; i++ ){
 
             fibo = first + second;
-            System.out.println(fibo);
+            System.out.print(fibo);
 
             first = second;
             second = fibo;
