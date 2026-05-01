@@ -14,6 +14,8 @@ public class fivonacci {
 
         for( int i= 3; i<n; i++ ){
 
+            fibo = first + second;
+
         }
 
 
