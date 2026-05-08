@@ -19,4 +19,8 @@ public class Palindrom {
         if(num == sum){
             System.out.println("The number is Palindrom");
     }
+        else {
+            System.out.println("The number is not palindrom");
+        }
+    }
 }
