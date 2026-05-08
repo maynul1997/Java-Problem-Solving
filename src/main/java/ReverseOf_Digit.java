@@ -7,10 +7,11 @@ public class ReverseOf_Digit {
 
         System.out.println("Enter the number : ");
 
+        while(temp != 0) {
 
+            r = temp % 10;
 
-
-
+        }
 
 
     }
