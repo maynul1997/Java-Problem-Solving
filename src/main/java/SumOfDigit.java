@@ -12,7 +12,7 @@ public class SumOfDigit {
         temp = num;
 
         while (temp !=0) {
-            temp % 10;
+            r = temp % 10;
             sum = sum + r;
             temp = temp / 10;
         }
