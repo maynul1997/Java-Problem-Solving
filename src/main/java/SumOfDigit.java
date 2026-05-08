@@ -9,6 +9,7 @@ public class SumOfDigit {
         System.out.println("Enter the Digit : ");
         int num = input.nextInt();
 
+        temp = num;
 
 
 
