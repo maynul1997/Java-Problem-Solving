@@ -12,6 +12,7 @@ public class ReverseOf_Digit {
         while(temp != 0) {
 
             r = temp % 10;
+            temp = temp / 10;
 
 
         }
