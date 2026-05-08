@@ -5,5 +5,8 @@ public class Palindrom {
         Scanner input = new Scanner(System.in);
         int num, temp, r, sum = 0;
         temp = num;
+
+        System.out.println("Enter the number : ");
+
     }
 }
