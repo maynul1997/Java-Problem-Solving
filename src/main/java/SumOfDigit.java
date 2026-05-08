@@ -6,6 +6,7 @@ public class SumOfDigit {
         int sum = 0;
         int temp;
         System.out.println("Enter the Digit : ");
+        int num = input.nextInt();
 
 
 
