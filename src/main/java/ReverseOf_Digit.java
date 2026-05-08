@@ -8,6 +8,7 @@ public class ReverseOf_Digit {
         System.out.println("Enter the number : ");
         num = input.nextByte();
 
+        temp = num;
         while(temp != 0) {
 
             r = temp % 10;
