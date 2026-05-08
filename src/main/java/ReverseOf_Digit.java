@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ReverseOf_Digit {
     static void main() {
         Scanner input = new Scanner(System.in);
-        int temp, r, num, sum =0;
+        int temp, r=0 , num, sum =0;
 
         System.out.println("Enter the number : ");
         num = input.nextByte();
@@ -16,6 +16,8 @@ public class ReverseOf_Digit {
 
 
         }
+
+        System.out.println("The reverse number is : "+r);
 
 
     }
