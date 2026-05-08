@@ -7,6 +7,12 @@ public class Palindrom {
         temp = num;
 
         System.out.println("Enter the number : ");
+        num = input.nextInt();
+
+        while(temp != 0) {
+
+            r =
+        }
 
     }
 }
