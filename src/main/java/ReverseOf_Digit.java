@@ -17,7 +17,7 @@ public class ReverseOf_Digit {
 
         }
 
-        System.out.println("The reverse number is : "+r);
+        System.out.println("The reverse number is : "+sum);
 
 
     }
