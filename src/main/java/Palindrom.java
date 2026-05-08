@@ -17,6 +17,6 @@ public class Palindrom {
         }
 
         if(num == sum){
-
+            System.out.println("The number is Palindrom");
     }
 }
