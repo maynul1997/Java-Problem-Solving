@@ -13,7 +13,10 @@ public class Palindrom {
 
             r = temp % 10;
             sum = sum * 10 + r;
+            temp = temp/10;
         }
+
+        if(num == sum){
 
     }
 }
