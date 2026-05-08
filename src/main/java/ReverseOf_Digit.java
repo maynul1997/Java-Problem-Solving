@@ -6,10 +6,12 @@ public class ReverseOf_Digit {
         int temp, r, num, sum =0;
 
         System.out.println("Enter the number : ");
+        num = input.nextByte();
 
         while(temp != 0) {
 
             r = temp % 10;
+
 
         }
 
