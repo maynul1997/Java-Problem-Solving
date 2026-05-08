@@ -11,7 +11,8 @@ public class Palindrom {
 
         while(temp != 0) {
 
-            r =
+            r = temp % 10;
+            sum = sum * 10 + r;
         }
 
     }
