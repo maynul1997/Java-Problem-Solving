@@ -6,6 +6,7 @@ public class Armstrong_NUmber {
         int num, r, temp, sum= 0;
 
         System.out.println("Enter the number: ");
+        num = input.nextInt();
 
 
 
