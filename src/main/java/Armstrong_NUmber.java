@@ -8,6 +8,8 @@ public class Armstrong_NUmber {
         System.out.println("Enter the number: ");
         num = input.nextInt();
 
+        temp = num;
+
 
 
     }
