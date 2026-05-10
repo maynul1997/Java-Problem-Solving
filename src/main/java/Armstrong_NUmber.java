@@ -10,6 +10,11 @@ public class Armstrong_NUmber {
 
         temp = num;
 
+        while (temp !=0 ) {
+           r = temp % 10;
+           sum = sum + r*r*r ;
+        }
+
 
 
     }
