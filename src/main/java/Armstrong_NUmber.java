@@ -16,9 +16,17 @@ public class Armstrong_NUmber {
            temp = temp / 10;
         }
 
-        if ( temp == sum)
+        if ( temp == sum) {
 
+            System.out.println("The Number is Armstrong");
 
+        }
+
+        else {
+            System.out.println("The number is not Armstrong");
+        }
+
+        }
 
     }
 }
