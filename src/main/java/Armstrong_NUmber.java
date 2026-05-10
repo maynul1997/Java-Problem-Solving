@@ -16,6 +16,8 @@ public class Armstrong_NUmber {
            temp = temp / 10;
         }
 
+        if ( temp == sum)
+
 
 
     }
