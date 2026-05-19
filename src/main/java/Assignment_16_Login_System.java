@@ -15,7 +15,7 @@ public class Assignment_16_Login_System {
             System.out.println("Enter password : ");
             password = input.nextLine();
 
-            if(username.equals("Anis") && password.equals(123456)) {
+            if(username.equals("Anis") && password.equals("123456")) {
                 System.out.println("Welcome to the System");
                 break;
             }
