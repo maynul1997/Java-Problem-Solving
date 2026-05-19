@@ -10,6 +10,9 @@ public class Assignment_16_Login_System {
         while(true){
 
             System.out.println("Enter user name: ");
+            username = input.nextLine();
+
+
         }
 
 
