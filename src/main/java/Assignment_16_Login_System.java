@@ -17,6 +17,7 @@ public class Assignment_16_Login_System {
 
             if(username.equals("Anis") && password.equals(123456)) {
                 System.out.println("Welcome to the System");
+                break;
             }
         }
 
