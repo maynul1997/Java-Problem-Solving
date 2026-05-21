@@ -7,5 +7,10 @@ public class Pattern_01 {
         System.out.println("Enter line number : ");
         int n = input.nextInt();
 
+        for( int row = 1; row <= n; row++ ) {
+
+
+        }
+
     }
 }
