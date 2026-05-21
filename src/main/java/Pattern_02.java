@@ -5,6 +5,8 @@ public class Pattern_02 {
 
         Scanner input = new Scanner(System.in);
 
+        System.out.println(" Enter the pattern message : ");
+
 
     }
 }
