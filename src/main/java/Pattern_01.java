@@ -13,6 +13,8 @@ public class Pattern_01 {
 
             }
 
+            System.out.println();
+
         }
 
     }
