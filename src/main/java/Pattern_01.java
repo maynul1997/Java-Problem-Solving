@@ -5,6 +5,7 @@ public class Pattern_01 {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Enter line number : ");
+        int n = input.nextInt();
 
     }
 }
