@@ -8,7 +8,9 @@ public class Pattern_01 {
         int n = input.nextInt();
 
         for( int row = 1; row <= n; row++ ) {
+            for( int col = 1; col <= row; col++ ) {
 
+            }
 
         }
 
