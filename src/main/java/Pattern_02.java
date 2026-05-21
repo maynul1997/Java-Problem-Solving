@@ -7,6 +7,8 @@ public class Pattern_02 {
 
         System.out.println(" Enter the pattern message : ");
 
+        int n = input.nextInt();
+
 
     }
 }
