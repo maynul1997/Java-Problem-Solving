@@ -9,6 +9,10 @@ public class Pattern_02 {
 
         int n = input.nextInt();
 
+        for ( int row = 1; row <= n; row++) {
+
+        }
+
 
     }
 }
