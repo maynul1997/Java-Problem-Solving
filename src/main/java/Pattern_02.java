@@ -12,9 +12,11 @@ public class Pattern_02 {
 
         for ( int row = n; row >= 1; row++) {
             for (int col = 1; col <= row; col++) {
-                System.out.println(" "+col);
+                System.out.print(" "+col);
 
             }
+
+            System.out.println();
 
         }
 
