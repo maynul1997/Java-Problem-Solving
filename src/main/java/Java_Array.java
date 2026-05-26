@@ -1,7 +1,7 @@
 public class Java_Array {
 
     static void main() {
-        int [] number = new int[5];
+        int [] number = new int[7];
 
         number [0] = 15;
         number [1] = 10;
