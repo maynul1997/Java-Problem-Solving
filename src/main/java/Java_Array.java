@@ -11,6 +11,8 @@ public class Java_Array {
         number [5] = 10;
         number [6] = 10;
 
+        int len = number.length;
+
         System.out.println(number[0]);
 
     }
