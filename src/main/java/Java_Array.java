@@ -12,6 +12,8 @@ public class Java_Array {
         number [6] = 10;
 
         int len = number.length;
+        System.out.println("The Array lenth is-"+len);
+
 
         System.out.println(number[0]);
 
