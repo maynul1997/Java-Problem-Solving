@@ -23,7 +23,11 @@ public class Array_Sum {
 
         double max = number [0];
 
-        for (int i = 1; i < 5; i++)
+        for (int i = 1; i < 5; i++) {
+
+            if (max < number[i])
+
+        }
 
 
     }
