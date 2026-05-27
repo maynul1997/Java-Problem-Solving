@@ -13,9 +13,12 @@ public class Array_Sum {
         }
 
        for ( int i = 0; i <number.length; i++) {
+           sum = sum + number[i];
 
        }
         System.out.println("The Sum is : "+sum);
+
+       double avg = sum/5;
 
 
     }
