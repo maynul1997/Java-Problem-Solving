@@ -15,7 +15,8 @@ public class Array_Sum {
         number [4] = input.nextDouble();
         number [5] = input.nextDouble();
 
-        sum =
+        sum = number [0] + number [1] + number [2] + number [3] + number [4];
+
 
     }
 }
