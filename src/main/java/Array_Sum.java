@@ -21,6 +21,10 @@ public class Array_Sum {
        double avg = sum/5;
         System.out.println("The average number is : "+avg);
 
+        double max = number [0];
+
+        for (int i = 1; i < 5; i++)
+
 
     }
 }
