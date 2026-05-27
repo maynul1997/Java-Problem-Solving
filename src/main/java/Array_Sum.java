@@ -9,7 +9,7 @@ public class Array_Sum {
         System.out.println("Please Enter the numbers : ");
 
         for( int i = 0; i < 5; i++) {
-            number [0] = input.nextDouble();
+            number [i] = input.nextDouble();
         }
 
         sum = number [0] + number [1] + number [2] + number [3] + number [4];
