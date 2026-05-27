@@ -12,13 +12,13 @@ public class Array_Sum {
             number [i] = input.nextDouble();
         }
 
-       for ( int i = 0; i <number.length; i++) {
+        for ( int i = 0; i <number.length; i++) {
            sum = sum + number[i];
 
        }
         System.out.println("The Sum is : "+sum);
 
-       double avg = sum/5;
+        double avg = sum/5;
         System.out.println("The average number is : "+avg);
 
         double max = number [0];
