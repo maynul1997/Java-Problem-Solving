@@ -5,6 +5,7 @@ public class Array_Sum {
         Scanner input = new Scanner(System.in);
 
         double [] number = new double [5];
+        double sum = 0;
         System.out.println("Please Enter the numbers : ");
 
         number [0] = input.nextDouble();
@@ -13,6 +14,8 @@ public class Array_Sum {
         number [3] = input.nextDouble();
         number [4] = input.nextDouble();
         number [5] = input.nextDouble();
+
+        sum =
 
     }
 }
