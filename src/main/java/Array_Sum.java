@@ -12,7 +12,7 @@ public class Array_Sum {
             number [i] = input.nextDouble();
         }
 
-        sum = number [0] + number [1] + number [2] + number [3] + number [4];
+       for(int i = 0; i)
         System.out.println("The Sum is : "+sum);
 
 
