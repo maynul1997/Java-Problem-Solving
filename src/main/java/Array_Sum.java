@@ -25,7 +25,9 @@ public class Array_Sum {
 
         for (int i = 1; i < 5; i++) {
 
-            if (max < number[i])
+            if (max < number[i]) {
+                max = number[i];
+            }
 
         }
 
