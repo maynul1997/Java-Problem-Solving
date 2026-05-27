@@ -19,6 +19,7 @@ public class Array_Sum {
         System.out.println("The Sum is : "+sum);
 
        double avg = sum/5;
+        System.out.println("The average number is : "+avg);
 
 
     }
