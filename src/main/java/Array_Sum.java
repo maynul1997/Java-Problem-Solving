@@ -16,6 +16,7 @@ public class Array_Sum {
         number [5] = input.nextDouble();
 
         sum = number [0] + number [1] + number [2] + number [3] + number [4];
+        System.out.println("The Sum is : "+sum);
 
 
     }
