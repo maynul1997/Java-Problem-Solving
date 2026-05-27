@@ -30,6 +30,10 @@ public class Array_Sum {
                 max = number[i];
             }
 
+            if (min > number [i]) {
+
+            }
+
         }
         System.out.println("Maximum value is : "+max);
 
