@@ -31,7 +31,7 @@ public class Array_Sum {
             }
 
             if (min > number [i]) {
-
+                min = number [i];
             }
 
         }
