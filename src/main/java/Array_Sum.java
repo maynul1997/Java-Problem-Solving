@@ -36,7 +36,7 @@ public class Array_Sum {
 
         }
         System.out.println("Maximum value is : "+max);
-
+        System.out.println("Minimum number is : "+min);
 
     }
 }
