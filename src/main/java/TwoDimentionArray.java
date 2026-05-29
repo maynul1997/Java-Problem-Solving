@@ -15,6 +15,12 @@ public class TwoDimentionArray {
             }
         }
 
+        // printing a matrix
+        System.out.println("A = ");
+        for (int row = 0; row <2; row++) {
+            for (int col = 0; col < 3; col ++) {
+                A [row] [col] = input.nextInt();
+
 
     }
 }
