@@ -17,7 +17,7 @@ public class Array_Demo {
 
         for (int row = 0; row < 4; row ++) {
             for (int col = 0; col < 5; col++) {
-                System.out.println(number [row] [col]);
+                System.out.print(number [row] [col]);
 
             }
 
