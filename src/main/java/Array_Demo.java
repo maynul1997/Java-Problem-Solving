@@ -14,6 +14,10 @@ public class Array_Demo {
 
         }
         //Printing the elements
+
+        for (int row = 0; row < 4; row ++) {
+
+        }
         System.out.println();
 
 
