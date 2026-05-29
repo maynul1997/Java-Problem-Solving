@@ -1,5 +1,7 @@
 public class Array7 {
     static void main() {
+        int [] [] number = new int [4] [];
+
 
     }
 
