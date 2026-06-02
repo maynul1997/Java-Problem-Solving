@@ -7,6 +7,10 @@ public class Array_Ascending {
 
         Arrays.sort(number);
 
+        for( int i = 0; i < 5; i ++) {
+
+        }
+
     }
 
 
