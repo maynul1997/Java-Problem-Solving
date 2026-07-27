@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Array_Ascending {
 
-    static void main() {
+    static void main(String[] args) {
         int [] number = {30, -10, 30, 50, 2};
 
         Arrays.sort(number);
@@ -12,7 +12,5 @@ public class Array_Ascending {
         }
 
     }
-
-
 
 }

@@ -7,5 +7,9 @@ public class Array_List {
 
         Arrays.sort(number);
 
+        for (int i = 0; i<5; i++) {
+
+        }
+
     }
 }
