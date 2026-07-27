@@ -24,8 +24,8 @@ public class Array_List {
         String [] names = {"Maynul", "Kamil", " Salam", "Borkot"};
         Arrays.sort(names);
 
-        for ( int i = 0; i < 5; i++ ) {
-            System.out.println(" "+names[i]);
+        for ( int i = 0; i < 4; i++ ) {
+            System.out.print(" "+names[i]);
 
         }
 
