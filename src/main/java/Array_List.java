@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.Arrays;
 
 public class Array_List {
@@ -8,6 +9,8 @@ public class Array_List {
         Arrays.sort(number);
 
         for (int i = 0; i<5; i++) {
+
+            System.out.println(" "+number[i]);
 
         }
 
