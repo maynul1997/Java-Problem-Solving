@@ -10,7 +10,7 @@ public class Array_List {
 
         for (int i = 0; i<5; i++) {
 
-            System.out.println(" "+number[i]);
+            System.out.print(" Ascending Number "+number[i]);
 
         }
 
