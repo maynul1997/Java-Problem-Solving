@@ -24,7 +24,10 @@ public class Array_List {
         String [] names = {"Maynul", "Kamil", " Salam", "Borkot"};
         Arrays.sort(names);
 
-        for
+        for( int i = 0; i < 4; i++ ) {
+
+
+        }
 
 
     }
