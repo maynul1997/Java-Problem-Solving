@@ -15,7 +15,7 @@ public class Array_List {
         }
 
         System.out.println();
-        for (int i = 4; i<5; i++) {
+        for (int i = 4; i >= 0; i--) {
 
             System.out.print("  "+number[i]);
 
