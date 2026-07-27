@@ -21,6 +21,8 @@ public class Array_List {
 
         }
 
+        String [] names = {"Maynul", "Kamil", " Salam", "Borkot"};
+
 
     }
 }
