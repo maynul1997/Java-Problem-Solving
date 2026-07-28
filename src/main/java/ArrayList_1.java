@@ -12,6 +12,8 @@ public class ArrayList_1 {
        number.add(60);
        number.add(3, 70);
 
+       System.out.println(number);
+
 
     }
 }
