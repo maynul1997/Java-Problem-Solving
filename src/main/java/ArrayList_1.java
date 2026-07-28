@@ -10,6 +10,7 @@ public class ArrayList_1 {
        number.add(10);
        number.add(20);
        number.add(60);
+       number.add(3, 70);
 
 
     }
