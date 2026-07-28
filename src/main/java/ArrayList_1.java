@@ -13,6 +13,7 @@ public class ArrayList_1 {
        number.add(3, 70);
 
        System.out.println(number);
+       System.out.println("Size = "+number.size());
 
 
     }
