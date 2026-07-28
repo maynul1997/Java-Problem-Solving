@@ -1,6 +1,10 @@
+import java.util.ArrayList;
+
 public class ArrayList_1 {
 
-    static void main() {
+   public static void main() {
+
+       ArrayList <Integer> number = new ArrayList<Integer>();
 
     }
 }
