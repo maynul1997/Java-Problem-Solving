@@ -7,5 +7,7 @@ public class ArrayList_1 {
        ArrayList <Integer> number = new ArrayList<Integer>();
        System.out.println("Size = "+number.size());
 
+       number.add(10);
+
     }
 }
