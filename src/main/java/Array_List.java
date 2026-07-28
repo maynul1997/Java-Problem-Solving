@@ -21,8 +21,6 @@ public class Array_List {
 
         }
 
-        System.out.println("Print String");
-
         String [] names = {"Maynul", "Kamil", " Salam", "Borkot"};
         Arrays.sort(names);
 
