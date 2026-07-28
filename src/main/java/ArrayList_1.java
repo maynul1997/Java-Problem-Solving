@@ -8,6 +8,9 @@ public class ArrayList_1 {
        System.out.println("Size = "+number.size());
 
        number.add(10);
+       number.add(20);
+       number.add(10);
+
 
     }
 }
