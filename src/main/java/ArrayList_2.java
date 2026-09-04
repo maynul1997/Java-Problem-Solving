@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class ArrayList_2 {
     static void main() {
@@ -12,6 +13,9 @@ public class ArrayList_2 {
         number.add(-20);
 
         System.out.println("Before sorting "+number);
+
+        Collections.sort(number);
+
 
     }
 }
