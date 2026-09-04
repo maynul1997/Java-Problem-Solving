@@ -15,6 +15,7 @@ public class ArrayList_2 {
         System.out.println("Before sorting "+number);
 
         Collections.sort(number);
+        System.out.println("After sorting as ascending order"+number);
 
 
     }
