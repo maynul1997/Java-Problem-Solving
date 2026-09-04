@@ -17,6 +17,9 @@ public class ArrayList_2 {
         Collections.sort(number);
         System.out.println("After sorting as ascending order"+number);
 
+        Collections.sort(number, Collections.reverseOrder());
+
+
 
     }
 }
