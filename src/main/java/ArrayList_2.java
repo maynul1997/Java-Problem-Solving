@@ -11,5 +11,7 @@ public class ArrayList_2 {
         number.add(90);
         number.add(-20);
 
+        System.out.println("Before sorting "+number);
+
     }
 }
